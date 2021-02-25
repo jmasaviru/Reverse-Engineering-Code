@@ -27,4 +27,4 @@ THEN I understand the codebase
 
 ## Links
 
-* A link to a Google Doc or video explaining the application 
+* A link to a Google Doc explaining the application: https://1drv.ms/w/s!BPyoh_TI1JM-lUcRJn6mVrn7eXic?e=CZSeWn
